@@ -1,0 +1,14 @@
+title: REPLACE
+email: edu@lester-lee.com
+description: >-
+  REPLACE
+
+#Site settings
+excerpt_length: 55
+
+include: ['units']
+
+#Build settings
+markdown: kramdown
+permalink: pretty
+future: true
