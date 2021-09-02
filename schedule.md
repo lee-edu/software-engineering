@@ -13,24 +13,20 @@ The schedule and assignments may be changed until officially covered in class. Y
 
 ## Unit 2: Intro to Javascript
   2. HTML and CSS
-  2. Javascript Basics (let, const, scope, arrays, functions, loops)
-     2. QUIZ
-  2. Javascript Continued (objects, higher order, callbacks, arrow functions, this, dot notation)
+  2. Javascript
   2. Lab 2
 
 ## Unit 3: Building an API
   3. Node.js and Project Structure
-  3. Routing via Express (postman)
-      3. QUIZ
+  3. Routing via Express
   3. Managing Databases with SQL
-  3. Working with APIs (connect database to express, add endpoints, authentication)
-  3. Lab 3 (host on Heroku)
+  3. Working with APIs
+  3. Lab 3
 
 ## Unit 4: Building a Client
   4. Using a Front-end Framework
   4. Communicating with Servers
-      4. QUIZ
-  4. CSS and SASS
+  4. SASS
   4. Lab 4
 
 ## Unit 5: Building a Full-Stack Application
