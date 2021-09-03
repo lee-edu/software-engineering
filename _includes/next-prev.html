@@ -1,0 +1,9 @@
+<div class="PostNav">
+  {% if page.prevurl %}
+  <a href="{{site.baseurl}}/{{page.prevurl}}" class="PostNavLink --prev"><< {{page.prevtitle}}</a>
+  {% endif %}
+
+  {% if page.nexturl %}
+  <a href="{{site.baseurl}}/{{page.nexturl}}" class="PostNavLink --next">{{page.nexttitle}} >></a> {% endif %}
+
+</div>

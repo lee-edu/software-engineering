@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.lock
+
+# These are unique to classes
+_config.yml
+README.md
+schedule.md
+index.md
