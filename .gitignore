@@ -3,5 +3,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+*.lock
+Gemfile
 
-sandbox/
+# These are unique to classes
+_config.yml
+README.md
+schedule.md
+index.md
