@@ -1,0 +1,26 @@
+@import "variables";
+
+header {
+  text-align: center;
+  border-bottom: 1px solid $primary-color;
+  padding: 1em;
+  background: white;
+
+
+  a {
+    text-decoration: none;
+  }
+
+  h1 {
+    margin: 0;
+  }
+
+  nav{
+    a{
+      margin: 0 .5em;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}

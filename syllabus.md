@@ -18,12 +18,6 @@ Lab revisions are handled on a case-by-case basis.
 # Discussions
 Readings will be given to supplement the course material. Each reading will include a written response, as well as participation in an in-class discussion. These are graded on a completion basis.
 
-<<<<<<< HEAD
-# Academic Honesty
-Any submitted work by a student should be their own unless students are collaborating on a group assignment. Collaboration is encouraged. Feel free to talk with other students! However, during these discussions, _do not write down_ any solutions. Students must always note whom they worked with. Failure to do so will result in an integrity penalty.
-
-Any form of cheating will result in a **failing grade** and the student’s advisor will be notified for the first offense. Any subsequent offense will result in the student being asked to speak with their class dean. Forms of cheating include but are not limited to: similar / identical code submitted, solutions submitted that are not a student’s own work.
-=======
 # Semester Grade
 If you complete all the work for this class, you will earn an excellent grade.
 
@@ -34,4 +28,3 @@ If you complete all the work for this class, you will earn an excellent grade.
 Collaboration is encouraged -- feel free to work and talk with other students! Always make sure to **cite** the names of who you worked with.
 
 Any form of academic dishonesty is a serious issue, and will be escalated to the student's advisor and grade dean. **I would rather you submit something late than something academically dishonest.** If you are ever unsure, reach out to me! I want to help you succeed in this class.
->>>>>>> 673705d8fc954fdffd2d84d76cb5032d4ee4fb75
