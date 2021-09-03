@@ -1,14 +1,4 @@
----
----
-@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
-
-/* --- Variables --- */
-$text-font: 'Noto Sans', sans-serif;
-$title-font: 'Noto Serif', serif;
-$mono-font: 'Fira Code', monospace;
-
-$primary-color: #333;
-$secondary-color: rgb(46, 150, 150);
+@import "variables";
 
 html {
   box-sizing: border-box;
@@ -87,57 +77,4 @@ code {
   background: rgba($color: #000000, $alpha: 0.7);
   padding: 0 2px;
   border-radius: 2px;
-}
-
-/* --- Masthead --- */
-.Masthead {
-  text-align: center;
-  border-bottom: 1px solid $primary-color;
-  padding: 1em;
-  background: white;
-
-  &Logo {
-    margin: 0;
-  }
-  &Nav{
-    &-Item{
-      margin: 0 .5em;
-      &:hover{
-        text-decoration: underline;
-      }
-    }
-  }
-}
-
-
-/* --- Post --- */
-.Main{
-  position: relative;
-}
-
-.Post {
-  &Date {
-    font-size: .5em;
-    float: right;
-    margin-top: 1em;
-  }
-}
-
-@media (min-width: 768px) {
-  body {
-    width: 40em;
-    max-width: 80vw;
-    margin: 0 auto;
-  }
-}
-
-.BottomLine{
-  width: 1em;
-  margin: 2em auto;
-}
-
-/* --- PostNav --- */
-.PostNav{
-  display: flex;
-  justify-content: space-between;
 }
